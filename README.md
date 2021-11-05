@@ -9,7 +9,7 @@ También con R te puedes divertir :smile:
 
 Del repo de [josefinaperez](https://github.com/josefinaperez/R)
 
-![](https://github.com/Duhyadi/Jugando-con-R-/tree/main/Imagenes)
+![](https://github.com/Duhyadi/Jugando-con-R-/blob/main/Imagenes/Rplot.png)
 
 
 
