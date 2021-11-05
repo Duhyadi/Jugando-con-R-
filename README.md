@@ -7,4 +7,10 @@ También con R te puedes divertir :smile:
 
 ## :video_game: Mario
 
+Del repo de [josefinaperez](https://github.com/josefinaperez/R)
+
+![](https://github.com/Duhyadi/Jugando-con-R-/tree/main/Imagenes)
+
+
+
 
